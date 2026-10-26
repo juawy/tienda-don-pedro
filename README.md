@@ -36,3 +36,9 @@ python src/main.py
 ## Autor
 
 Juan Pablo Vallejo Galvis · [GitHub](https://github.com/juawy)
+
+## Domicilios
+
+Entregas de lunes a sábado, de 8:00 a. m. a 6:00 p. m.
+
+Cobertura: Centro y San Pío, Itagüí.
